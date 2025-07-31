@@ -1,6 +1,6 @@
 FROM node
-RUN  mkdir -p /home/banking-frontend
-WORKDIR /home/banking-frontend
+RUN  mkdir -p /home/banking-app-client
+WORKDIR /home/banking-app-client
 COPY ./ ./
 RUN npm install
 RUN npm run build
