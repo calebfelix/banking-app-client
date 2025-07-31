@@ -1,0 +1,14 @@
+/* Add this CSS in your component or in a CSS file */
+
+/* Styles for the select input */
+.custom-select {
+    width: 100px;
+    margin-right: 10px;
+  }
+  
+  /* Styles for the pagination */
+  .pagination {
+    display: inline-block;
+    margin-top: 7px; /* Adjust the top margin as needed */
+  }
+  
